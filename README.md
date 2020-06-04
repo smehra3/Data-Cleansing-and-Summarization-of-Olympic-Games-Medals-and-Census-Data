@@ -1,3 +1,5 @@
-# Data Cleansing and Summarization of Wikipedia entry on All Time Olympic Games Medals
+# Data Cleansing and Summarization of Olympic Games Medals and Census Data
 
-Loads the olympics dataset (olympics.csv), which was derrived from the Wikipedia entry on All Time Olympic Games Medals, does some basic data cleaning and summarized information.
+Performed basic data cleaning on the olympics dataset (olympics.csv), which was derived from the Wikipedia entry on All Time Olympic Games Medals, and then summarized information.
+
+Used census data from the [United States Census Bureau](http://www.census.gov) and derived summary. 
